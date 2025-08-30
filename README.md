@@ -21,11 +21,3 @@ This project implements the paper ["A Neural Algorithm of Artistic Style"](https
 * **NumPy**
 * **Pillow**
 * **Matplotlib**
-
-## 🏃‍♀️ How to Use
-
-You can run the style transfer from the command line.
-
-**Basic Usage:**
-```sh
-python main.py --content "path/to/content.jpg" --style "path/to/style.jpg"
